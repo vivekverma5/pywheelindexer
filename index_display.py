@@ -5,9 +5,7 @@ import json
 import pandas as pd
 import os
 import argparse
-print "testing the code"
 import indexing
-print "after indexing"
 
 
 ##Defining blank array
