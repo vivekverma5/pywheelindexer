@@ -1,13 +1,14 @@
 # pywheelindexer
 Generate index for all wheel files by crawling https://pypi.python.org/simple/
 
-usage: 
-index_display.py [-h] [-d DISTRIBUTION] [-a ABI] [-p PYTHON]
+usage:
+
+  index_display.py [-h] [-d DISTRIBUTION] [-a ABI] [-p PYTHON]
                         [-s PLATFORM] [-v VERSION]
 
-whl file index search script.
+  whl file index search script.
 
-optional arguments:
+  optional arguments:
   -h, --help            show this help message and exit
   -d DISTRIBUTION, --distribution DISTRIBUTION
                         Input python distribution/package name
