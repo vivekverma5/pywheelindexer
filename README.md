@@ -9,17 +9,19 @@ usage:
   whl file index search script.
 
   optional arguments:
+  
   -h, --help            show this help message and exit
-  -d DISTRIBUTION, --distribution DISTRIBUTION
-                        Input python distribution/package name
-  -a ABI, --abi ABI     Supported ABI name
-  -p PYTHON, --python PYTHON
-                        supported python version
-  -s PLATFORM, --platform PLATFORM
-                        supported platform
-  -v VERSION, --version VERSION
-                        supported python package version
-
+  
+  -d DISTRIBUTION, --distribution DISTRIBUTION (Input python distribution/package name)
+                        
+  -a ABI, --abi ABI     (Supported ABI name)
+  
+  -p PYTHON, --python PYTHON (supported python version)
+                        
+  -s PLATFORM, --platform PLATFORM (supported platform)
+                        
+  -v VERSION, --version VERSION (supported python package version)
+                        
 
 Features:
 
