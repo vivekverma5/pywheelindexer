@@ -42,5 +42,9 @@ Requirements:
    -  os.path
    -  itertools
 
+Improvements:
 
+  - Develope a Web UI for index display and search.
+  - Implementing crawling optimizations to reduce time of Json data creation.
+  - Implement joint search methods.
   
